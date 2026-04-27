@@ -1,1 +1,1 @@
-{"seq":6,"ts":1777282439,"frames":[{"id":"c8450f2331a1a405933c38075","seq":2,"status":"closed"}]}
+{"seq":7,"ts":1777282462,"frames":[{"id":"cd62ef0d4bc5c6776fe726501","seq":1,"status":"error","err":"dial tcp 81.12.30.44:443: i/o timeout"}]}
